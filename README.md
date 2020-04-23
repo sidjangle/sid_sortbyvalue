@@ -1,4 +1,20 @@
-# sid_sortbyvalue
-This method help to to sort by price and character for eg Low to High or High to Low 
+# What is this ?
 
-Like Every Online Shopping Website Requried it
+This methos is use for sorting the Array  as Low to High 
+
+# Installation
+
+`npm i sid_sortby --save`
+
+Then...
+
+````
+import{sid_sortby} from 'sid_sortby';
+
+public sid_sortby:any;
+
+var val;
+sidsortfunction(parameter)
+
+this.sid_sortby = 'your Array';
+````
