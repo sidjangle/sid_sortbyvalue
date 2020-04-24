@@ -4,12 +4,12 @@ This methos is use for sorting the Array  as Low to High
 
 # Installation
 
-`npm i sid_sortbyvalue --save`
+`npm i sid_sortbysid --save`
 
 Then...
 
 ````
-import{sid_sortbyvalue} from 'sid_sortbyvalue';
+import{sid_sortbysid} from 'sid_sortbysid';
 
 public sid_sortby:any;
 
