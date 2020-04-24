@@ -9,7 +9,7 @@ This methos is use for sorting the Array  as Low to High
 Then...
 
 ````
-import{sid_sortby} from 'sid_sortby';
+import{sid_sortbyvalue} from 'sid_sortbyvalue';
 
 public sid_sortby:any;
 
