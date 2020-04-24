@@ -4,7 +4,7 @@ This methos is use for sorting the Array  as Low to High
 
 # Installation
 
-`npm i sid_sortby --save`
+`npm i sid_sortbyvalue --save`
 
 Then...
 
